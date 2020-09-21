@@ -125,7 +125,9 @@
     "children": [
       "menu-item#category-apparel",
       "menu-item#category-home",
-      "menu-item#more"
+      "menu-item#more",
+      "menu-item#more1",
+      "menu-item#more2"
     ],
     "props": {
       "orientation": "vertical"
