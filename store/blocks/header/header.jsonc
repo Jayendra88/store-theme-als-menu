@@ -76,6 +76,11 @@
       "minicart.v2"
     ]
   },
+  "login": {
+    "props": {
+      "hasGoogleOneTap": true
+    }
+  },
   "flex-layout.col#logo-desktop": {
     "props": {
       "verticalAlign": "middle"
